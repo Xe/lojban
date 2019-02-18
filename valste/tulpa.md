@@ -10,7 +10,7 @@ tulpa1: the thoughtform
 tulpa2: the creator  
 tulpa3: the host  
 
-Rafsi: lpa, tulp, tulpa
+Rafsi: tulp, tulpa
 
 Examples:
 
