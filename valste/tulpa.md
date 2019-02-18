@@ -1,12 +1,16 @@
 # tulpa
 
-fu'ivla
+Class: fu'ivla (loan word)
+
+tulpa
 
 x1 is the [tulpa](https://tulpaforce.xyz) created by x2 and hosted by x3
 
 tulpa1: the thoughtform  
 tulpa2: the creator  
 tulpa3: the host  
+
+Rafsi: lpa, tulp, tulpa
 
 Examples:
 
